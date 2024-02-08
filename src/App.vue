@@ -15,7 +15,6 @@ export default {
 </script>
 
 <style scoped>
-body {
-  background: #643843;
+#app {
 }
 </style>
